@@ -18,16 +18,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chillingstar&show_icons=true&theme=dracula" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=star122o&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chillingstar&langs_count=4&theme=dracula&layout=compact&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star122o&langs_count=4&theme=dracula&layout=compact&card_width=320" />
   </a>
 </p>
 
 ## 📫 How to reach me
 
-- GitHub: [chillingstar](https://github.com/chillingstar)
+- GitHub: [chillingstar](https://github.com/star122o)
 - Discord: [star122o](https://discord.com/users/1245349618905255946)
 - Email: [star@luckless.pw](mailto:star@luckless.pw)
 
