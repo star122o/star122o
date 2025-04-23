@@ -65,7 +65,7 @@ width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
   - [Lucklessly](https://mine.ly/Lucklessly) | [Skyblock Stats](https://sky.shiiyu.moe/stats/Lucklessly) | [Plancke](https://plancke.io/hypixel/player/stats/Lucklessly)
   - [NotChillingStar](https://mine.ly/NotChillingStar) | [Skyblock Stats](https://sky.shiiyu.moe/stats/NotChillingStar) | [Plancke](https://plancke.io/hypixel/player/stats/NotChillingStar)
 - **osu!**: [osu!](https://osu.ppy.sh/users/35650471)
-- **Project Sekai**: 123456789
+- **Project Sekai**: 57379171576979794564 (EN)
 - **Steam**: [Luckless](https://steamcommunity.com/id/lucklessowo)
 
 ---
