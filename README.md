@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/KosoriDev">Kosori</a> | <a href="https://github.com/122o">122o</a>
+  <a href="https://github.com/KosoriDev">Kosori</a> | <a href="https://github.com/mapleai-lol">MapleAI 🍁</a>
   <br/>
   🇬🇧 | 🇺🇸 | 🇻🇳 | 🇩🇪 | 🇯🇵
 </p>
@@ -25,7 +25,6 @@
 <a href="https://github.com/star122o"><img align="left" width="140" src="./img/hi.png" /></a>
 
 - My name is **Luckless** (aliases: **star122o**), and my pronouns are **she/them**
-- I am currently a final year **student** at **[THCS Dịch Vọng Hậu](http://thcsdichvonghau.edu.vn/)** in **Hanoi, Vietnam**
 - I am a full-stack **developer** with a focus on **web development** and **DevOps**
 - I can code in **TypeScript**, **JavaScript**, **Python**, **Java**, **Kotlin** and **C#**.
 - Else than coding, I enjoy **gaming** (especially **[Minecraft](https://minecraft.net)**, **[osu!](https://osu.ppy.sh)** and **[Project Sekai](https://colorfulstage.com)**)
@@ -63,7 +62,6 @@ width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
 
 - **Minecraft**:
   - [Lucklessly](https://mine.ly/Lucklessly) | [Skyblock Stats](https://sky.shiiyu.moe/stats/Lucklessly) | [Plancke](https://plancke.io/hypixel/player/stats/Lucklessly)
-  - [NotChillingStar](https://mine.ly/NotChillingStar) | [Skyblock Stats](https://sky.shiiyu.moe/stats/NotChillingStar) | [Plancke](https://plancke.io/hypixel/player/stats/NotChillingStar)
 - **osu!**: [osu!](https://osu.ppy.sh/users/35650471)
 - **Project Sekai**: 57379171576979794564 (EN)
 - **Steam**: [Luckless](https://steamcommunity.com/id/lucklessowo)
@@ -74,11 +72,11 @@ width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
 
 <a href="https://github.com/star122o"><img align="left" width="140" src="./img/wave.png" /></a>
 
-- **Discord**: [@lucklessowo](https://discord.com/users/1323167145479114834)
-- **Twitter**: [@luckless122o](https://twitter.com/luckless122o)
-- **TikTok**: [@luckless122o](https://tiktok.com/@luckless122o)
+- **Discord**: [@star122o](https://discord.com/users/1245349618905255946)
+- **Twitter**: [@star122o](https://twitter.com/star122o)
+- **TikTok**: [@star122o](https://tiktok.com/@star122o)
 - **Telegram**: [@star122o](https://t.me/star122o)
-- **YouTube**: [@ytstar122o](https://youtube.com/@ytstar122o)
+- **YouTube**: [@122oluckless](https://youtube.com/@122oluckless)
 - **Email**: [admin@luckless.de](mailto:admin@luckless.de)
 
 ---
